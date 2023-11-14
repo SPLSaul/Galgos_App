@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Galgos App</string>
+    <string name="noControl">Numero de control</string>
+    <string name="contrasena">Contraseña</string>
+</resources>
